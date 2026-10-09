@@ -1,0 +1,3 @@
+Scope: Customers, Accounts and Transactions
+Five steps involved in this project
+Step 1: Conceptual model (start here)
