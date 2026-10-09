@@ -1,0 +1,3 @@
+# My Awesome Retail Banking Project
+
+Welcome to my repository! This project holds my documentation and visual draw.io workflows.
